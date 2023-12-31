@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there! Welcome to my GitHub Profile! 👋
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsmacr8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🏆 Github Contribution stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmacr8&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact)
+
+![ITS MAC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmacr8&theme=merko)
 
 <!--
 **itsmacr8/itsmacr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
