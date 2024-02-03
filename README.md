@@ -38,6 +38,24 @@ My codes are so dumb and simple that they solve complex problems and create simp
 ![Git Logo](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
 ![Postman Logo](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman)
 
+## 🗂️ GitHub Repositories
+
+[![Todo list with drag and drop feature GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=draggrable-list&theme=shades-of-purple)](https://github.com/itsmacr8/draggrable-list)
+[![Webpack frontend development setup GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=front-end-dev-setup&theme=shades-of-purple)](https://github.com/itsmacr8/front-end-dev-setup)
+[![Blog website with flask python framework GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=blog-flask&theme=shades-of-purple)](https://github.com/itsmacr8/blog-flask)
+[![Ecommerce website with django python framework GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=ecommerce-django&theme=shades-of-purple)](https://github.com/itsmacr8/ecommerce-django)
+[![National University Bot GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=python-bot&theme=shades-of-purple)](https://github.com/itsmacr8/python-bot)
+[![subtitle to text generator Bot GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=subtitle-to-text-generator&theme=shades-of-purple)](https://github.com/itsmacr8/subtitle-to-text-generator)
+
+## 📑 GitHub Gists
+
+[![How to render list in react GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=61a99365bee20d1d82a620bc499a9418)](https://gist.github.com/itsmacr8/61a99365bee20d1d82a620bc499a9418/)
+[![How to evaluate expression in JavaScript GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=b7ef1ea33f4d060ed429ce9d8430204e)](https://gist.github.com/itsmacr8/b7ef1ea33f4d060ed429ce9d8430204e/)
+[![Virtual desktop switcher GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=ae2b69b980d60c0ee988d27da9446e62)](https://gist.github.com/itsmacr8/ae2b69b980d60c0ee988d27da9446e62/)
+[![Best way to loop over an object in JavaScript GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=18e8b87b47ccaf14d528a6071a06a53b)](https://gist.github.com/itsmacr8/18e8b87b47ccaf14d528a6071a06a53b/)
+[![How to convert a JavaScript object to string and vice versa GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=8d2c281c0e017f4929769680db02b9ca)](https://gist.github.com/itsmacr8/8d2c281c0e017f4929769680db02b9ca/)
+[![The concept of scope in JavaScript GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=5f0bc5c4232f66ecbef0c9aa0c9d770a)](https://gist.github.com/itsmacr8/5f0bc5c4232f66ecbef0c9aa0c9d770a/)
+
 ## 📊 Github Analytics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=itsmacr8&theme=shades-of-purple&layout=compact&custom_title=GitHub%20Stats&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&card_width=300)
