@@ -49,22 +49,16 @@ My codes are so dumb and simple that they solve complex problems and create simp
 
 ## 📑 GitHub Gists
 
-[![How to render list in react GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=61a99365bee20d1d82a620bc499a9418)](https://gist.github.com/itsmacr8/61a99365bee20d1d82a620bc499a9418/)
-[![How to evaluate expression in JavaScript GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=b7ef1ea33f4d060ed429ce9d8430204e)](https://gist.github.com/itsmacr8/b7ef1ea33f4d060ed429ce9d8430204e/)
 [![Virtual desktop switcher GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=ae2b69b980d60c0ee988d27da9446e62)](https://gist.github.com/itsmacr8/ae2b69b980d60c0ee988d27da9446e62/)
 [![Best way to loop over an object in JavaScript GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=18e8b87b47ccaf14d528a6071a06a53b)](https://gist.github.com/itsmacr8/18e8b87b47ccaf14d528a6071a06a53b/)
-[![How to convert a JavaScript object to string and vice versa GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=8d2c281c0e017f4929769680db02b9ca)](https://gist.github.com/itsmacr8/8d2c281c0e017f4929769680db02b9ca/)
-[![The concept of scope in JavaScript GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=5f0bc5c4232f66ecbef0c9aa0c9d770a)](https://gist.github.com/itsmacr8/5f0bc5c4232f66ecbef0c9aa0c9d770a/)
 
 ## 📊 Github Analytics
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=itsmacr8&theme=shades-of-purple&layout=compact&custom_title=GitHub%20Stats&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&card_width=300)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmacr8&theme=shades-of-purple&layout=compact)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=itsmacr8&theme=shades-of-purple&layout=compact&show_icons=true&show=&rank_icon=percentile&)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmacr8&theme=shades-of-purple&layout=compact&langs_count=10&exclude_repo=itsmac-notes)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmacr8&theme=shades-of-purple&layout=compact)
-
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmacr8&theme=shades-of-purple&layout=compact)
 ![Github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmacr8&theme=rogue&custom_title=GitHub%20Contribution%20Graph&title_color=ff6e96)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmacr8&theme=shades-of-purple&layout=compact)
 
 ## 🏆 GitHub Trophies
 
