@@ -41,12 +41,13 @@ My codes are so dumb and simple that they solve complex problems and create simp
 
 ## 🗂️ GitHub Repositories
 
-[![Todo list with drag and drop feature GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=draggrable-list&theme=shades-of-purple)](https://github.com/itsmacr8/draggrable-list)
-[![Webpack frontend development setup GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=front-end-dev-setup&theme=shades-of-purple)](https://github.com/itsmacr8/front-end-dev-setup)
-[![Blog website with flask python framework GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=blog-flask&theme=shades-of-purple)](https://github.com/itsmacr8/blog-flask)
-[![Ecommerce website with django python framework GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=ecommerce-django&theme=shades-of-purple)](https://github.com/itsmacr8/ecommerce-django)
-[![National University Bot GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=python-bot&theme=shades-of-purple)](https://github.com/itsmacr8/python-bot)
+[![Quinn GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=Quinn&theme=shades-of-purple)](https://github.com/itsmacr8/Quinn)
+[![QuantariseFinance GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=QuantariseFinance&theme=shades-of-purple)](https://github.com/itsmacr8/QuantariseFinance)
+[![Phreyah GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=Phreyah&theme=shades-of-purple)](https://github.com/itsmacr8/Phreyah)
+[![WeekeSEO GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=WeekeSEO&theme=shades-of-purple)](https://github.com/itsmacr8/WeekeSEO)
 [![subtitle to text generator Bot GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=subtitle-to-text-generator&theme=shades-of-purple)](https://github.com/itsmacr8/subtitle-to-text-generator)
+[![Zhenxiang GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=python-bot&theme=shades-of-purple)](https://github.com/itsmacr8/python-bot)
+[![Blog website with flask python framework GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=blog-flask&theme=shades-of-purple)](https://github.com/itsmacr8/blog-flask)
 
 ## 📑 GitHub Gists
 
