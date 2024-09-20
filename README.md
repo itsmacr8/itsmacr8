@@ -33,6 +33,7 @@ My codes are so dumb and simple that they solve complex problems and create simp
 ![Vite Logo](https://img.shields.io/badge/-Vite-0A1A2F?style=flat&logo=Vite)
 ![Webpack Logo](https://img.shields.io/badge/-Webpack-0A1A2F?style=flat&logo=webpack)
 ![Netlify Logo](https://img.shields.io/badge/-Netlify-0A1A2F?style=flat&logo=netlify)
+![Vercel Logo](https://img.shields.io/badge/-Vercel-0A1A2F?style=flat&logo=vercel)
 
 - 🎯 Bow and Arrow: Miscellaneous
 ![Git Logo](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
