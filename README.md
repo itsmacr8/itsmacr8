@@ -3,7 +3,7 @@
 My codes are so dumb and simple that they solve complex problems and create simple products that look like rocket science. Don’t ask me how, it is also mystery to me. 😂 You can get in touch with me via:
 
 [![Email box](https://img.shields.io/badge/-📧%20Email-0A1A2F?style=flat)](mailto:asifchowdhuryrafi143@outlook.com?&subject=Interested%20in%20collaboration%20from%20GitHub&body=Hi%20Mac,)
-[![Website text](https://img.shields.io/badge/-🌐%20Website-0A1A2F?style=flat)](https://itsmac.netlify.app/)
+[![Personal Website Link](https://img.shields.io/badge/-🌐%20Website-0A1A2F?style=flat)](https://itsmac.co/)
 [![LinkedIn Logo](https://img.shields.io/badge/-LinkedIn-0A1A2F?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/itsmacr8/)
 [![Twitter/X Logo](https://img.shields.io/badge/-Twitter-0A1A2F?style=flat&logo=x)](https://www.twitter.com/itsmacr8/)
 
