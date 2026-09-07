@@ -41,24 +41,24 @@ My codes are so dumb and simple that they solve complex problems and create simp
 
 ## 🗂️ GitHub Repositories
 
-[![Quinn GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=Quinn&theme=shades-of-purple)](https://github.com/itsmacr8/Quinn)
-[![QuantariseFinance GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=QuantariseFinance&theme=shades-of-purple)](https://github.com/itsmacr8/QuantariseFinance)
-[![Phreyah GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=Phreyah&theme=shades-of-purple)](https://github.com/itsmacr8/Phreyah)
-[![WeekeSEO GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=WeekeSEO&theme=shades-of-purple)](https://github.com/itsmacr8/WeekeSEO)
-[![subtitle to text generator Bot GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=subtitle-to-text-generator&theme=shades-of-purple)](https://github.com/itsmacr8/subtitle-to-text-generator)
-[![Zhenxiang GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=python-bot&theme=shades-of-purple)](https://github.com/itsmacr8/python-bot)
-[![Blog website with flask python framework GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=itsmacr8&repo=blog-flask&theme=shades-of-purple)](https://github.com/itsmacr8/blog-flask)
+[![Quinn GitHub repo](https://github-stats-extended.vercel.app/api/pin/?username=itsmacr8&repo=Quinn&theme=shades-of-purple)](https://github.com/itsmacr8/Quinn)
+[![QuantariseFinance GitHub repo](https://github-stats-extended.vercel.app/api/pin/?username=itsmacr8&repo=QuantariseFinance&theme=shades-of-purple)](https://github.com/itsmacr8/QuantariseFinance)
+[![Phreyah GitHub repo](https://github-stats-extended.vercel.app/api/pin/?username=itsmacr8&repo=Phreyah&theme=shades-of-purple)](https://github.com/itsmacr8/Phreyah)
+[![WeekeSEO GitHub repo](https://github-stats-extended.vercel.app/api/pin/?username=itsmacr8&repo=WeekeSEO&theme=shades-of-purple)](https://github.com/itsmacr8/WeekeSEO)
+[![subtitle to text generator Bot GitHub repo](https://github-stats-extended.vercel.app/api/pin/?username=itsmacr8&repo=subtitle-to-text-generator&theme=shades-of-purple)](https://github.com/itsmacr8/subtitle-to-text-generator)
+[![Zhenxiang GitHub repo](https://github-stats-extended.vercel.app/api/pin/?username=itsmacr8&repo=python-bot&theme=shades-of-purple)](https://github.com/itsmacr8/python-bot)
+[![Blog website with flask python framework GitHub repo](https://github-stats-extended.vercel.app/api/pin/?username=itsmacr8&repo=blog-flask&theme=shades-of-purple)](https://github.com/itsmacr8/blog-flask)
 
 ## 📑 GitHub Gists
 
-[![Virtual desktop switcher GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=ae2b69b980d60c0ee988d27da9446e62)](https://gist.github.com/itsmacr8/ae2b69b980d60c0ee988d27da9446e62/)
-[![Best way to loop over an object in JavaScript GitHub gist](https://github-readme-stats.vercel.app/api/gist?theme=calm&id=18e8b87b47ccaf14d528a6071a06a53b)](https://gist.github.com/itsmacr8/18e8b87b47ccaf14d528a6071a06a53b/)
+[![Virtual desktop switcher GitHub gist](https://github-stats-extended.vercel.app/api/gist?theme=calm&id=ae2b69b980d60c0ee988d27da9446e62)](https://gist.github.com/itsmacr8/ae2b69b980d60c0ee988d27da9446e62/)
+[![Best way to loop over an object in JavaScript GitHub gist](https://github-stats-extended.vercel.app/api/gist?theme=calm&id=18e8b87b47ccaf14d528a6071a06a53b)](https://gist.github.com/itsmacr8/18e8b87b47ccaf14d528a6071a06a53b/)
 
 ## 📊 Github Analytics
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=itsmacr8&theme=shades-of-purple&layout=compact&show_icons=true&show=&rank_icon=percentile&)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmacr8&theme=shades-of-purple&layout=compact&langs_count=10&exclude_repo=itsmac-notes)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmacr8&theme=shades-of-purple&layout=compact)
+![Github stats](https://github-stats-extended.vercel.app/api?username=itsmacr8&theme=shades-of-purple&layout=compact&show_icons=true&show=&rank_icon=percentile&)
+![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=itsmacr8&theme=shades-of-purple&layout=compact&langs_count=10&exclude_repo=itsmac-notes)
+![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=itsmacr8&theme=shades-of-purple&layout=compact)
 ![Github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmacr8&theme=rogue&custom_title=GitHub%20Contribution%20Graph&title_color=ff6e96)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmacr8&theme=shades-of-purple&layout=compact)
 
