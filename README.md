@@ -59,9 +59,9 @@ My codes are so dumb and simple that they solve complex problems and create simp
 ![Github stats](https://github-stats-extended.vercel.app/api?username=itsmacr8&theme=shades-of-purple&layout=compact&show_icons=true&show=&rank_icon=percentile&)
 ![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=itsmacr8&theme=shades-of-purple&layout=compact&langs_count=10&exclude_repo=itsmac-notes)
 ![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=itsmacr8&theme=shades-of-purple&layout=compact)
-![Github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmacr8&theme=rogue&custom_title=GitHub%20Contribution%20Graph&title_color=ff6e96)
+![Github contribution graph](https://github-readme-activity-graph-nine-delta.vercel.app/graph?username=itsmacr8&theme=rogue&custom_title=ITS%20MAC%20GitHub%20Contribution%20Graph&title_color=ff6e96)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmacr8&theme=shades-of-purple&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsmacr8&theme=radical&margin-w=6)
+![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=itsmacr8&theme=radical&margin-w=10&margin-h=10&row=4&column=4&no-frame=true)
