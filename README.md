@@ -7,6 +7,9 @@ My codes are so dumb and simple that they solve complex problems and create simp
 [![LinkedIn Logo](https://img.shields.io/badge/-LinkedIn-0A1A2F?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/itsmacr8/)
 [![Twitter/X Logo](https://img.shields.io/badge/-Twitter-0A1A2F?style=flat&logo=x)](https://www.twitter.com/itsmacr8/)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=itsmacr8.visitor-badge&left_text=Visitors&format=true&logo=github&query_only=true)
+![Profile Views](https://komarev.com/ghpvc/?username=itsmacr8&label=Profile%20Views&color=0e75b6&style=flat&abbreviated=true)
+
 ## 🛠️ Hammer and Wrench: Tech Stack
 
 - ✏️ Pencil: Design Tools
