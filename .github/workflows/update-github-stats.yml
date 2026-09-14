@@ -1,0 +1,40 @@
+name: Update Activity Graph and Trophies
+
+on:
+  schedule: # execute every Friday at 00:30 UTC
+    - cron: "30 0 * * 5"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=rogue&custom_title=GitHub%20Contribution%20Graph&title_color=ff6e96
+          output_path: assets/github-activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=radical&margin-w=10&margin-h=10&row=4&column=4&no-frame=true'
+          path: assets/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push GitHub activity graph and GitHub trophies to the output branch
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update GitHub activity graph and trophies"
+          file_pattern: assets/github-activity-graph.svg, assets/github-trophies.svg
+
+
