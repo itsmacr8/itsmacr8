@@ -16,6 +16,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v7
 
+      - name: Create assets directory
+        run: mkdir -p assets
+
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -31,10 +34,16 @@ jobs:
           path: assets/github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Check if files exist
+        run: |
+          echo "Checking for generated files..."
+          ls -la assets/
+          test -f assets/github-activity-graph.svg && echo "✓ Activity graph exists" || echo "✗ Activity graph missing"
+          test -f assets/github-trophies.svg && echo "✓ Trophies exist" || echo "✗ Trophies missing"
+
       - name: Push GitHub activity graph and GitHub trophies to the output branch
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: update GitHub activity graph and trophies"
           file_pattern: assets/github-activity-graph.svg,assets/github-trophies.svg
-
 
