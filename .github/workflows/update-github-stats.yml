@@ -35,6 +35,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: update GitHub activity graph and trophies"
-          file_pattern: assets/github-activity-graph.svg, assets/github-trophies.svg
+          file_pattern: assets/github-activity-graph.svg,assets/github-trophies.svg
 
 
